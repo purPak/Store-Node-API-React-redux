@@ -3,4 +3,4 @@ This app is connected to the Store-Node-Express-Mongoose-Nunjucks App.
 Display all products  currently available in the main store.
 
 Rendering => React
-Gestion du state => Redux
+App State Managment => Redux
